@@ -1,0 +1,29 @@
+
+.contenu{
+    margin-top:100px;
+}
+
+.padding{
+    padding-right: 7%;
+}
+
+.police{
+    font-family: Monospace;
+}
+
+.couleur_bar{
+    background-color: #BBD2E1;
+}
+
+.couleur_body{
+    background-color: #F4FEFE;
+}
+
+.size_nav{
+    padding-top: 1%;   
+
+}
+
+.radius{
+    border-radius: 40px;
+}
